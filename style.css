@@ -1,3 +1,6 @@
+.main {
+  font-family: 'Caveat', cursive;
+}
 .header__title {
   color: white;
   text-align: center;
@@ -94,6 +97,7 @@
 .body {
   background: url(https://new-retail.ru/upload/iblock/fbf/fbf49d684f6ec7456be127b6e77dc0f0.jpeg);
   background-size: cover;
+  font-family: 'Lobster', cursive;
 }
 
 q {
